@@ -1,0 +1,7 @@
+Python 3.9+
+
+pdfplumber
+
+pandas
+
+openpyxl
